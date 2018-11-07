@@ -20,12 +20,12 @@
     }
 
     #container{
-        width: 276px;
-        margin-left: -138px;
+        width: 278px;
+        margin-left: -139px;
     }
 
     #container > h1{
-        font-size: 70px;
+        font-size: 48px;
     }
 
     #social{
